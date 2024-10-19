@@ -44,6 +44,7 @@ Once the app is running, you can navigate between the Home screen and other scre
 
 ### Screenshot
 See the development screeshot at "Screenshot 2024-10-19 at 9.46.40 PM.png" in the root folder.
+![development screeshot](screenshots/Screenshot 2024-10-19 at 9.46.40 PM.png)   
 
 ## Contribution 
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
