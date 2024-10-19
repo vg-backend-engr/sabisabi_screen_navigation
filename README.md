@@ -33,3 +33,23 @@ The app architecture consists of a Home screen that navigates to various other s
 
    ```bash
    git clone https://github.com/vg-backend-engr/sabisabi_screen_navigation.git
+2. Navigate to the project directory: cd BottomNavigationApp
+
+3. Open the project in Android Studio and sync the Gradle files.
+
+4. Run the application on an emulator or physical device.
+
+### Usage 
+Once the app is running, you can navigate between the Home screen and other screens using the bottom navigation bar. Each screen will display its name, allowing for easy identification of the current view.
+
+### Screenshot
+![App Development Screen](Screenshot 2024-10-19 at 9.46.40 PM.png)
+
+## Contribution 
+Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## License 
+This project is licensed under the MIT License.
+
+## Acknowledgments 
+Thanks to the Jetpack Compose team for their amazing documentation and resources, which made this project possible.
