@@ -32,4 +32,4 @@ The app architecture consists of a Home screen that navigates to various other s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Navigation.git
+   git clone https://github.com/vg-backend-engr/sabisabi_screen_navigation.git
