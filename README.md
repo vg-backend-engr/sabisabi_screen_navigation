@@ -10,7 +10,8 @@ A basic native Android application demonstrating navigation between screens usin
 
 ## Architecture
 
-The app architecture consists of a Home screen that navigates to various other screens. Each screen displays its respective name. The architecture is depicted in the provided PNG file.
+The app architecture consists of a Home screen that navigates to various other screens. Each screen displays its respective name. The architecture is depicted below:
+![architecture](images/homeview-mobile-Android.png)
 
 ## Technologies Used
 
@@ -44,7 +45,7 @@ Once the app is running, you can navigate between the Home screen and other scre
 
 ### Screenshot
 See the development screeshot below.
-![development screeshot](screenshots/Screenshot.png)
+![development screeshot](images/Screenshot.png)
 
 ## Contribution 
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
