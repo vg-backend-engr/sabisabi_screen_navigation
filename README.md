@@ -43,7 +43,7 @@ The app architecture consists of a Home screen that navigates to various other s
 Once the app is running, you can navigate between the Home screen and other screens using the bottom navigation bar. Each screen will display its name, allowing for easy identification of the current view.
 
 ### Screenshot
-See the development screeshot at "Screenshot 2024-10-19 at 9.46.40 PM.png" in the root folder.
+See the development screeshot below.
 ![development screeshot](screenshots/Screenshot.png)
 
 ## Contribution 
